@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b89c8f0-06f3-469f-b794-ce75be8c0048" name="Changes" comment="">
+    <list default="true" id="2b89c8f0-06f3-469f-b794-ce75be8c0048" name="Changes" comment="Online Quiz App">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/questions.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/.idea/Quiz_System.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/admin.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
@@ -33,23 +40,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2svVHTU7jym3IU5btm9qXBaugsN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.app.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Quiz_System" />
@@ -95,7 +102,20 @@
       <option name="presentableId" value="Default" />
       <updated>1739335947846</updated>
     </task>
+    <task id="LOCAL-00001" summary="Online Quiz App">
+      <option name="closed" value="true" />
+      <created>1739349909140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739349909142</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Online Quiz App" />
+    <option name="LAST_COMMIT_MESSAGE" value="Online Quiz App" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
