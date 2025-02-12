@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin - User Scores</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Admin - User Scores</h1>
+        <table>
+            <tr>
+                <th>Username</th>
+                <th>Score</th>
+            </tr>
+            {% for username, user in users.items() %}
+                <tr>
+                    <td>{{ username }}</td>
+                    <td>{{ user['score'] }}</td>
+                </tr>
+            {% endfor %}
+        </table>
+        <a href="{{ url_for('logout') }}" class="start-btn">Logout</a>
+    </div>
+</body>
+</html>

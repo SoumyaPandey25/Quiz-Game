@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correct_answer": "Paris"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correct_answer": "Mars"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "correct_answer": "Pacific Ocean"
+    },
+    {
+        "question": "What is the square root of 16?",
+        "options": ["2", "4", "6", "8"],
+        "correct_answer": "4"
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Marie Curie"],
+        "correct_answer": "Albert Einstein"
+    },
+    {
+        "question": "Which element is represented by the symbol 'O'?",
+        "options": ["Oxygen", "Osmium", "Ozone", "Oxygenium"],
+        "correct_answer": "Oxygen"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Leonardo da Vinci", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+        "correct_answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["Mount Kilimanjaro", "Mount Everest", "Mount Fuji", "K2"],
+        "correct_answer": "Mount Everest"
+    },
+    {
+        "question": "Which is the largest continent?",
+        "options": ["Africa", "Asia", "Europe", "North America"],
+        "correct_answer": "Asia"
+    },
+    {
+        "question": "In which year did the Titanic sink?",
+        "options": ["1912", "1905", "1923", "1898"],
+        "correct_answer": "1912"
+    }
+]
